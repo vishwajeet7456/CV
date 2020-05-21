@@ -1,5 +1,5 @@
 body {
-  background-color:#5fdde5;
+  background-color:#def4f0;
 }
 
 ul {
@@ -46,4 +46,6 @@ audio {
   margin-right: auto;
   width: 40%;
 }
-
+h1,h3{
+  color: #c060a1;
+}
