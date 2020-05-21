@@ -27,6 +27,13 @@ video {
   margin-right: auto;
   width: 40%;
 }
+hr {
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+}
 iframe {
   display: block;
   margin-left: auto;
